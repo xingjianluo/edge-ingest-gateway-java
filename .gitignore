@@ -37,3 +37,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
+# 本地运行时缓冲目录
+data/
